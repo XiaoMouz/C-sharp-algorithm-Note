@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace 两数之和
+namespace two_sum
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -24,7 +24,7 @@ namespace 两数之和
             {
                 for (int j = 1; j < nums.Length; j++)
                 {
-                    if(i==j)
+                    if (i == j)
                     {
                         continue;
                     }

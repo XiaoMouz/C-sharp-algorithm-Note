@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "两数之和", "两数之和\两数之和.csproj", "{5650CC24-B143-4B62-87C6-307BEA188022}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two-sum", "two-sum\two-sum.csproj", "{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5650CC24-B143-4B62-87C6-307BEA188022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5650CC24-B143-4B62-87C6-307BEA188022}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5650CC24-B143-4B62-87C6-307BEA188022}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5650CC24-B143-4B62-87C6-307BEA188022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
