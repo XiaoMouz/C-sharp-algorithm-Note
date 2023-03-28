@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two-sum", "two-sum\two-sum.csproj", "{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "two-sum", "two-sum\two-sum.csproj", "{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "divide-two-integers", "divide-two-integers\divide-two-integers.csproj", "{E827F46A-BC65-401B-809D-2AB5DCADACAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special Adjustment Method", "Special Adjustment Method\Special Adjustment Method.csproj", "{4B636050-5584-48B5-A8CF-8DA8262AF8AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65CB76AC-FF19-4C6B-BCF4-7C37C0D4191C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E827F46A-BC65-401B-809D-2AB5DCADACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E827F46A-BC65-401B-809D-2AB5DCADACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E827F46A-BC65-401B-809D-2AB5DCADACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E827F46A-BC65-401B-809D-2AB5DCADACAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B636050-5584-48B5-A8CF-8DA8262AF8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B636050-5584-48B5-A8CF-8DA8262AF8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B636050-5584-48B5-A8CF-8DA8262AF8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B636050-5584-48B5-A8CF-8DA8262AF8AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
